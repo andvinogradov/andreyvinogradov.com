@@ -21,7 +21,7 @@ export default {
   },
 
   head: {
-    base: 'https://vursen.github.io/andreyvinogradov/'
+    base: { href: 'https://vursen.github.io/andreyvinogradov/' }
   }
 }
 </script>
