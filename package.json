@@ -1,8 +1,7 @@
 {
   "scripts": {
     "dev": "MINIMAL=1 CSB=1 nuxt",
-    "build": "nuxt build && nuxt export",
-    "generate": "nuxt generate",
+    "build": "nuxt generate",
     "start": "nuxt start"
   },
   "dependencies": {
