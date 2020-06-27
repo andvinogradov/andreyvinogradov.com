@@ -18,6 +18,10 @@ export default {
   components: {
     Header,
     Footer
+  },
+
+  head: {
+    base: 'https://vursen.github.io/andreyvinogradov/'
   }
 }
 </script>
