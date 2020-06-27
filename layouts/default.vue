@@ -20,8 +20,10 @@ export default {
     Footer
   },
 
-  head: {
-    base: { href: 'https://vursen.github.io/andreyvinogradov/' }
+  head () {
+    return {
+      base: { href: 'https://vursen.github.io/andreyvinogradov/' }
+    }
   }
 }
 </script>
