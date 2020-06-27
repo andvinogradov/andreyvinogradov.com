@@ -1,8 +1,6 @@
 export default {
   // target: 'static',
 
-  buildDir: 'docs',
-
   /*
    ** Headers of the page
    ** Doc: https://vue-meta.nuxtjs.org/api/#metainfo-properties
@@ -22,6 +20,8 @@ export default {
   },
 
   generate: {
+    dir: 'docs',
+
     async routes () {
       const { $content } = require('@nuxt/content')
       const ruFiles = await $content('ru').only(['slug']).fetch()
