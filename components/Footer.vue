@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    © Андрей Виноградов, 2020
+    © Andrey Vinogradov, 2020
   </div>
 </template>
 

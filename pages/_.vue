@@ -8,10 +8,11 @@
 
 <script>
 export default {
-  async asyncData({ $content, params, error }) {
+  async asyncData({ $content, params, route, error }) {
     const slug = params.slug || 'index'
+    const lang = /en/.test(route.path) ? 'en' : 'ru'
 
-    const page = await $content(slug)
+    const page = await $content(lang, slug)
       .fetch()
       .catch(err => {
         error({ statusCode: 404, message: 'Page not found' });
@@ -20,10 +21,6 @@ export default {
     return {
       page
     }
-  },
-
-  async fetch ({ $content }) {
-    this.nav = await $content().only(['path', 'title']).fetch()
   }
 }
 </script>

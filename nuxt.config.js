@@ -22,9 +22,13 @@ export default {
   generate: {
     async routes () {
       const { $content } = require('@nuxt/content')
-      const files = await $content().only(['path']).fetch()
+      const ruFiles = await $content('ru').only(['name']).fetch()
+      const enFiles = await $content('en').only(['name']).fetch()
 
-      return files.map(file => file.path === '/index' ? '/' : file.path)
+      return [
+        ...ruFiles.map(file => file.name === 'index' ? '/' : `/ru/${file.name}`),
+        ...enFiles.map(file => file.name === 'index' ? '/en/' : `/en/${file.name}`)
+      ]
     }
   },
 

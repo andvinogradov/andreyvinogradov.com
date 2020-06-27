@@ -31,7 +31,7 @@ export default {
   }
 
   .container {
-    width: 960px;
+    width: 864px;
     margin: 0 auto;
   }
 

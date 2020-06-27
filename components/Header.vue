@@ -1,11 +1,26 @@
 <template>
   <div class="header">
     <a class="header__title" href="/">
-      Андрей Виноградов
+      <template v-if="isActiveLang('ru')">
+        Андрей Виноградов
+      </template>
+      <template v-if="isActiveLang('en')">
+        Andrey Vinogradov
+      </template>
     </a>
 
     <div class="header__description">
-      Композитор, аранжировщик, исполнитель на колесной лире
+      <template v-if="isActiveLang('ru')">
+        Композитор, аранжировщик, исполнитель на колесной лире
+      </template>
+      <template v-if="isActiveLang('en')">
+        Composer, arranger, hurdy-gurdy player
+      </template>
+    </div>
+
+    <div class="header__lang">
+      <a href="/en" :class="{ _active: isActiveLang('en') }">English</a>
+      <a href="/ru" :class="{ _active: isActiveLang('ru') }">Русский</a>
     </div>
 
     <div class="header__image">
@@ -17,21 +32,28 @@
         v-for="(item, index) in $store.state.nav"
         :key="index"
       >
-        <RouterLink :to="item.path">
+        <a :href="item.path" :class="{ _active: $route.path === item.path }">
           {{ item.title }}
-        </RouterLink>
+        </a>
       </li>
     </ul>
   </div>
 </template>
 
 <script>
-
+export default {
+  methods: {
+    isActiveLang (lang) {
+      return this.$store.state.lang === lang
+    }
+  }
+}
 </script>
 
 <style lang="scss">
   .header {
-    padding: 40px 40px 0;
+    position: relative;
+    padding: 32px 32px 0;
     background: #fff;
 
     &__title {
@@ -45,25 +67,43 @@
     }
 
     &__description {
-      margin-bottom: 40px;
-      color: #7a7a7a;
+      margin-bottom: 32px;
+      color: #888;
       font-size: 16px;
       line-height: 24px;
     }
 
     &__image {
-      margin: 0 -40px;
+      min-height: 432px;
+      margin: 0 -32px;
+    }
+
+    &__lang {
+      position: absolute;
+      top: 32px;
+      right: 32px;
+      color: #333;
+      text-align: right;
+
+      a {
+        display: block;
+        margin-bottom: 16px;
+
+        &._active {
+          font-weight: bold;
+        }
+      }
     }
   }
 
   .header-nav {
     display: flex;
     height: 48px;
-    margin: 0 -40px;
-    padding: 0 40px;
-    background: linear-gradient(#252525, #0a0a0a);
+    margin: 0 -32px;
+    padding: 0 32px;
     color: #eee;
     font-size: 14px;
+    background: linear-gradient(#252525, #0a0a0a);
 
     a {
       display: flex;
@@ -72,7 +112,7 @@
       padding: 0 20px;
       text-decoration: none;
 
-      &.nuxt-link-exact-active {
+      &._active {
         font-weight: bold;
       }
     }
