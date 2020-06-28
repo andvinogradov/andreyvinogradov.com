@@ -444,3 +444,13 @@ textarea {
 a {
   color: inherit;
 }
+
+::-moz-selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
+
+::selection {
+  text-shadow: none;
+  background: #b3d4fc;
+}
