@@ -2,9 +2,9 @@
 title: Купить
 order: 6
 ---
-
+<p>
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1289875766/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://avinogradov.bandcamp.com/album/distant-calls">Distant Calls by Andrey Vinogradov</a></iframe>
-
+</p>
 <p>
   <iframe style=" width: 500px; height: 510px; border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=3071412449/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" width="300" height="150" seamless="">
     <a href="http://avinogradov.bandcamp.com/album/music-for-hurdy-gurdy">
