@@ -20,17 +20,6 @@
 
     <div class="header__lang">
       <NuxtLink
-        to="/ru"
-        :class="{ _active: isActiveLang('ru') }"
-        v-slot="{ href }"
-      >
-        <a :href="href">
-          Русский
-
-          <img src="~assets/images/russia.svg">
-        </a>
-      </NuxtLink>
-      <NuxtLink
         to="/en"
         :class="{ _active: isActiveLang('en') }"
         v-slot="{ href }"
@@ -39,6 +28,17 @@
           English
 
           <img src="~assets/images/uk.svg">
+        </a>
+      </NuxtLink>
+      <NuxtLink
+        to="/ru"
+        :class="{ _active: isActiveLang('ru') }"
+        v-slot="{ href }"
+      >
+        <a :href="href">
+          Русский
+
+          <img src="~assets/images/russia.svg">
         </a>
       </NuxtLink>
     </div>
@@ -52,7 +52,10 @@
         v-for="(item, index) in $store.state.nav"
         :key="index"
       >
-        <NuxtLink :to="item.path" :class="{ _active: $route.path === item.path }">
+        <NuxtLink
+          :to="item.path"
+          :class="{ _active: isNavItemActive(item) }"
+        >
           {{ item.title }}
         </NuxtLink>
       </li>
@@ -65,6 +68,17 @@ export default {
   methods: {
     isActiveLang (lang) {
       return this.$store.state.lang === lang
+    },
+
+    isNavItemActive (item) {
+      if (
+        /^\/(ru|en)\/index/.test(item.path) &&
+        /^\/(ru|en)$/.test(this.$route.path)
+      ) {
+        return true
+      }
+
+      return this.$route.path === item.path
     }
   }
 }

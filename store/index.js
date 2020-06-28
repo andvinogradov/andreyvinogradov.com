@@ -7,6 +7,10 @@ export const actions = {
       .sortBy('order')
       .fetch()
 
+    nav.forEach((item) => {
+      item.path = item.path.replace('/index', '')
+    })
+
     commit('SET_LANG', lang)
     commit('SET_NAV', nav)
   }
