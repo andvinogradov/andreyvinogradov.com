@@ -3,16 +3,16 @@ title: Фото
 order: 5
 ---
 
-![Photo 1](/photos/photo-1.jpg)
+!(photos/photo-1.jpg)
 
-![Photo 1](/photos/photo-2.jpg)
+!(photos/photo-2.jpg)
 
-![Photo 1](/photos/photo-3.jpg)
+!(photos/photo-3.jpg)
 
-![Photo 1](/photos/photo-4.jpg)
+!(photos/photo-4.jpg)
 
-![Photo 1](/photos/photo-5.jpg)
+!(photos/photo-5.jpg)
 
-![Photo 1](/photos/photo-6.jpg)
+!(photos/photo-6.jpg)
 
-![Photo 1](/photos/IMG_9300.jpg)
+!(photos/IMG_9300.jpg)
