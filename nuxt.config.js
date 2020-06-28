@@ -40,8 +40,8 @@ export default {
       const enFiles = await $content('en').only(['slug']).fetch()
 
       return [
-        ...ruFiles.map(file => file.slug === 'index' ? '/' : `/ru/${file.slug}`),
-        ...enFiles.map(file => file.slug === 'index' ? '/en/' : `/en/${file.slug}`)
+        ...enFiles.map(file => file.slug === 'index' ? '/' : `/en/${file.slug}`),
+        ...ruFiles.map(file => file.slug === 'index' ? '/ru/' : `/ru/${file.slug}`)
       ]
     }
   },
