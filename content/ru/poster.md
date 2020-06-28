@@ -1,6 +1,6 @@
 ---
 title: Афиша
-order: 4
+order: 2
 ---
 
 29.05.2020 — участие в проекте <a href="https://www.belcantofund.com/actions/13065-atmasfera-360/">«Орган и колёсная лира» </a>Фонд Бельканто и Атмасфера 360
