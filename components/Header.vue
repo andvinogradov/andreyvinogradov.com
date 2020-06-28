@@ -19,18 +19,24 @@
     </div>
 
     <div class="header__lang">
-      <a
-        href="/en"
+      <NuxtLink
+        to="/en"
         :class="{ _active: isActiveLang('en') }"
+        v-slot="{ href }"
       >
-        English
-      </a>
-      <a
-        href="/ru"
+        <a :href="href">
+          English
+        </a>
+      </NuxtLink>
+      <NuxtLink
+        to="/ru"
         :class="{ _active: isActiveLang('ru') }"
+        v-slot="{ href }"
       >
-        Русский
-      </a>
+        <a :href="href">
+          Русский
+        </a>
+      </NuxtLink>
     </div>
 
     <div class="header__image">
