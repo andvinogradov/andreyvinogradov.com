@@ -48,6 +48,10 @@ export default {
       line-height: 24px;
     }
 
+    iframe {
+      margin: 16px 0;
+    }
+
     a {
       color: #1982d1;
       text-decoration: none;
