@@ -13,7 +13,9 @@ export default {
   },
 
   router: {
-    base: process.env.NODE_ENV === 'production' ? '/andreyvinogradov.com' : '',
+    // base: process.env.NODE_ENV === 'production' ? '/andreyvinogradov.com' : '',
+
+    base: '/',
 
     extendRoutes (routes, resolve) {
       routes.push({
