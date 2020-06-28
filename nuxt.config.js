@@ -18,7 +18,19 @@ export default {
   },
 
   router: {
-    base: process.env.NODE_ENV === 'production' ? '/andreyvinogradov/' : ''
+    base: process.env.NODE_ENV === 'production' ? '/andreyvinogradov' : '',
+
+    extendRoutes (routes, resolve) {
+      routes.push({
+        path: '/:lang/:slug?',
+        component: resolve(__dirname, 'pages/page.vue')
+      })
+
+      routes.push({
+        path: '/:slug?',
+        component: resolve(__dirname, 'pages/page.vue')
+      })
+    }
   },
 
   generate: {

@@ -1,6 +1,6 @@
 export const actions = {
   async nuxtServerInit ({ commit }, { route, $content }) {
-    const lang = /en/.test(route.path) ? 'en' : 'ru'
+    const lang = route.params.lang ?? 'ru'
 
     const nav = await $content(lang)
       .only(['path', 'title'])

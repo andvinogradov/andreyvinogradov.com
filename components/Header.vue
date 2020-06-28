@@ -1,13 +1,13 @@
 <template>
   <div class="header">
-    <a class="header__title" href="/">
+    <NuxtLink class="header__title" to="/">
       <template v-if="isActiveLang('ru')">
         Андрей Виноградов
       </template>
       <template v-if="isActiveLang('en')">
         Andrey Vinogradov
       </template>
-    </a>
+    </NuxtLink>
 
     <div class="header__description">
       <template v-if="isActiveLang('ru')">
@@ -19,8 +19,18 @@
     </div>
 
     <div class="header__lang">
-      <a href="/en" :class="{ _active: isActiveLang('en') }">English</a>
-      <a href="/ru" :class="{ _active: isActiveLang('ru') }">Русский</a>
+      <a
+        href="/en"
+        :class="{ _active: isActiveLang('en') }"
+      >
+        English
+      </a>
+      <a
+        href="/ru"
+        :class="{ _active: isActiveLang('ru') }"
+      >
+        Русский
+      </a>
     </div>
 
     <div class="header__image">
@@ -32,9 +42,9 @@
         v-for="(item, index) in $store.state.nav"
         :key="index"
       >
-        <a :href="item.path" :class="{ _active: $route.path === item.path }">
+        <NuxtLink :to="item.path" :class="{ _active: $route.path === item.path }">
           {{ item.title }}
-        </a>
+        </NuxtLink>
       </li>
     </ul>
   </div>
