@@ -59,6 +59,13 @@ export default {
    */
   modules: [
     '@nuxt/content',
+    [
+      '@nuxtjs/yandex-metrika',
+      {
+        id: '65231248',
+        webvisor: true
+      }
+    ],
   ],
 
   /*
