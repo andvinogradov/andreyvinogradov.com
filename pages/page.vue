@@ -11,8 +11,6 @@ export default {
   async asyncData({ $content, store, params, route, error }) {
     const slug = params.slug || 'index'
 
-    console.log(slug)
-
     const page = await $content(store.state.lang, slug)
       .fetch()
       .catch(err => {
@@ -25,8 +23,18 @@ export default {
   },
 
   head () {
+    const lang = this.$store.state.lang
+
     return {
-      title: this.page.title
+      htmlAttrs: {
+        lang
+      },
+
+      title: this.page.title,
+      titleTemplate: lang === 'ru'
+        ? 'Андрей Виноградов | %s'
+        : 'Andrey Vinogradov | %s'
+
     }
   }
 }

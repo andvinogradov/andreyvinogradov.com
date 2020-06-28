@@ -2,19 +2,22 @@ export default {
   head: {
     title: 'Andrey Vinogradov',
     meta: [
-      { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { charset: 'utf-8' },
       {
         hid: 'description',
         name: 'description',
         content: 'Composer, arranger, hurdy-gurdy player'
+      },
+      {
+        hid: 'description',
+        name: 'keywords',
+        content: 'Composer, arranger, hurdy gurdy, music'
       }
     ]
   },
 
   router: {
-    // base: process.env.NODE_ENV === 'production' ? '/andreyvinogradov.com' : '',
-
     base: '/',
 
     extendRoutes (routes, resolve) {
