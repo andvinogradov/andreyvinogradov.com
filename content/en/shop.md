@@ -24,3 +24,10 @@ order: 6
 <a href="http://kunaki.com/sales.asp?PID=PX00UXR482&amp;pp=1">
   <img class="alignnone" src="http://kunaki.com/ProductImage.ASP?T=I&amp;ST=FO&amp;PID=PX00UXR482" alt="" width="383" height="327" />
 </a>
+
+<strong>Кликните по изображению</strong>
+
+<a href="http://kunaki.com/sales.asp?PID=PX00Z11SQI&pp=1">
+  <img class="alignnone" src="http://kunaki.com/ProductImage.ASP?T=I&ST=FO&PID=PX00Z11SQI" alt="" width="383" height="327" />
+</a>
+
