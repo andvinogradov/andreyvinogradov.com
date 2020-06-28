@@ -20,21 +20,25 @@
 
     <div class="header__lang">
       <NuxtLink
-        to="/en"
-        :class="{ _active: isActiveLang('en') }"
-        v-slot="{ href }"
-      >
-        <a :href="href">
-          English
-        </a>
-      </NuxtLink>
-      <NuxtLink
         to="/ru"
         :class="{ _active: isActiveLang('ru') }"
         v-slot="{ href }"
       >
         <a :href="href">
           Русский
+
+          <img src="~assets/images/russia.svg">
+        </a>
+      </NuxtLink>
+      <NuxtLink
+        to="/en"
+        :class="{ _active: isActiveLang('en') }"
+        v-slot="{ href }"
+      >
+        <a :href="href">
+          English
+
+          <img src="~assets/images/uk.svg">
         </a>
       </NuxtLink>
     </div>
@@ -74,8 +78,8 @@ export default {
 
     &__title {
       display: block;
-      margin-bottom: 10px;
-      color: #111;
+      margin-bottom: 8px;
+      color: #000;
       font-weight: bold;
       font-size: 32px;
       line-height: 32px;
@@ -84,7 +88,7 @@ export default {
 
     &__description {
       margin-bottom: 32px;
-      color: #888;
+      color: #777;
       font-size: 16px;
       line-height: 24px;
     }
@@ -102,34 +106,56 @@ export default {
       text-align: right;
 
       a {
+        position: relative;
         display: block;
         margin-bottom: 16px;
+        padding-right: 32px;
+        font-size: 16px;
+        line-height: 20px;
+        text-decoration: none;
 
         &._active {
           font-weight: bold;
+        }
+
+        img {
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          width: 20px;
+          height: 20px;
+          margin: auto;
         }
       }
     }
   }
 
   .header-nav {
+    position: relative;
     display: flex;
-    height: 48px;
-    margin: 0 -32px;
-    padding: 0 32px;
-    color: #eee;
+    margin: -64px -32px 0;
+    padding: 16px 32px 0;
+    color: #fff;
     font-size: 14px;
-    background: linear-gradient(#252525, #0a0a0a);
+    background: linear-gradient(rgba(#000, 0) 20%, rgba(#000, 0.7) 100%);
 
     a {
       display: flex;
       align-items: center;
-      height: 100%;
+      height: 48px;
+      margin-right: 4px;
       padding: 0 20px;
       text-decoration: none;
 
+      &:active,
+      &:focus {
+        outline: 0;
+      }
+
       &._active {
-        font-weight: bold;
+        color: #333;
+        background: #fff;
       }
     }
 
@@ -137,8 +163,10 @@ export default {
       height: 100%;
 
       &:hover {
-        color: #000;
-        background: #eee;
+        a {
+          color: #333;
+          background: #fff;
+        }
       }
     }
   }

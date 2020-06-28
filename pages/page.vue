@@ -47,5 +47,18 @@ export default {
       font-size: 16px;
       line-height: 24px;
     }
+
+    a {
+      color: #1982d1;
+      text-decoration: none;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    em {
+      font-style: italic;
+    }
   }
 </style>

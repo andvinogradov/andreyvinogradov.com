@@ -1,12 +1,14 @@
 <template>
   <div class="layout">
-    <Header class="container" />
+    <div class="container">
+      <Header />
 
-    <div class="container content">
-      <nuxt/>
+      <div class="content">
+        <nuxt/>
+      </div>
+
+      <Footer />
     </div>
-
-    <Footer class="container" />
   </div>
 </template>
 
@@ -33,6 +35,7 @@ export default {
   .container {
     width: 864px;
     margin: 0 auto;
+    box-shadow: 0 0 40px rgba(#000, 0.2);
   }
 
   .content {
@@ -41,6 +44,6 @@ export default {
   }
 
   .layout {
-    padding: 32px 0;
+    margin: 32px 0;
   }
 </style>
