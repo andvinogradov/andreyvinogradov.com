@@ -17,6 +17,10 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
 
+  router: {
+    base: process.env.NODE_ENV === 'production' ? '/andreyvinogradov/' : ''
+  },
+
   generate: {
     dir: 'docs',
 

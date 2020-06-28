@@ -18,12 +18,6 @@ export default {
   components: {
     Header,
     Footer
-  },
-
-  head () {
-    return {
-      base: { href: 'https://vursen.github.io/andreyvinogradov/' }
-    }
   }
 }
 </script>
