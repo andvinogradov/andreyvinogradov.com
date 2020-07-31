@@ -2,13 +2,13 @@
 title: Gigs
 order: 4
 ---
-27.12.2020 - Kozlov Club solo concert 
+27.12.2020 - Kozlov Club solo concert  
 
 22.11.2010 - Kozlov Club solo concert 
 
 29.10.2020 - project <a href="https://www.belcantofund.com/actions/14250-sobor/">"Elemental music. Tbiliso mountains. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
 
-18.10.2020 - Kozlov Club solo concert
+18.10.2020 - Kozlov Club solo concert 
 
 10.10.2020 – project <a href="https://www.belcantofund.com/actions/14262-atmasfera-360/">“Organ &amp; Hurdy-Gurdy”</a> Belcantofund &amp; Atmasfera 360
 
