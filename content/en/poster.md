@@ -2,9 +2,9 @@
 title: Gigs
 order: 4
 ---
-27.12.2020 - Kozlov Club solo concert  
+27.12.2020 - Kozlov Club solo concert 
 
-22.11.2010 - Kozlov Club solo concert 
+22.11.2010 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-15/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 29.10.2020 - project <a href="https://www.belcantofund.com/actions/14250-sobor/">"Elemental music. Tbiliso mountains. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
 
