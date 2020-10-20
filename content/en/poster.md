@@ -8,11 +8,11 @@ order: 4
 
 29.10.2020 - project <a href="https://www.belcantofund.com/actions/14250-sobor/">"Elemental music. Tbiliso mountains. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
 
-18.10.2020 - Kozlov Club solo concert 
+18.10.2020 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-14/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 10.10.2020 – project <a href="https://www.belcantofund.com/actions/14262-atmasfera-360/">“Organ &amp; Hurdy-Gurdy”</a> Belcantofund &amp; Atmasfera 360
 
-20.09.2020 - Kozlov Club solo concert
+20.09.2020 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-13/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 29.05.2020 – project <a href="https://www.belcantofund.com/actions/13065-atmasfera-360/">“Organ &amp; Hurdy-Gurdy”</a> Belcantofund &amp; Atmasfera 360
 
