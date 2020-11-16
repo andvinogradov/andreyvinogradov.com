@@ -2,7 +2,7 @@
 title: Gigs
 order: 4
 ---
-27.12.2020 - Kozlov Club solo concert 
+27.12.2020 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-16/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 22.11.2010 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-15/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
