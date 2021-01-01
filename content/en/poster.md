@@ -2,6 +2,32 @@
 title: Gigs
 order: 4
 ---
+26.12.2021 - (Moscow, Russia) – solo concert
+
+28.11.2021 - (Moscow, Russia) – solo concert
+
+24.10.2021 - (Moscow, Russia) – solo concert
+
+26.09.2021 - (Moscow, Russia) – solo concert
+
+29.08.2021 - (Moscow, Russia) – solo concert
+
+25.07.2021 - (Moscow, Russia) – solo concert
+
+27.06.2021 - (Moscow, Russia) – solo concert
+
+30.05.2021 - (Moscow, Russia) – solo concert
+
+18.04.2021 - (Moscow, Russia) – solo concert
+
+28.03.2021 - (Moscow, Russia) – solo concert
+
+28.02.2021 - (Moscow, Russia) – solo concert
+
+24.01.2021 - (Moscow, Russia) – solo concert
+
+24.01.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-16/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
 27.12.2020 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-16/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 22.11.2010 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-15/">Kozlov Club</a> (Moscow, Russia) – solo concert
