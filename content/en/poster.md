@@ -22,6 +22,8 @@ order: 4
 
 28.03.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-18/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
+06.03.2021 – project <https://www.belcantofund.com/actions/15969-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> Belcantofund
+
 28.02.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-17/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 24.01.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-16/">Kozlov Club</a> (Moscow, Russia) – solo concert
