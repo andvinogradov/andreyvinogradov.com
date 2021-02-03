@@ -22,7 +22,7 @@ order: 2
 
 28.03.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-18/">клубе Алексея Козлова</a> (Москва, Россия)
 
-29.05.2020 — участие в проекте <a href="https://www.belcantofund.com/actions/15969-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>Фонд Бельканто
+06.03.2021 — участие в проекте <a href="https://www.belcantofund.com/actions/15969-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>Фонд Бельканто
 
 28.02.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-17/">клубе Алексея Козлова</a> (Москва, Россия)
 
