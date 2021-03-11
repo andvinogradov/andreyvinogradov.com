@@ -18,7 +18,9 @@ order: 4
 
 30.05.2021 - (Moscow, Russia) – solo concert
 
-18.04.2021 - (Moscow, Russia) – solo concert
+26.04.2021 – project <a href="https://www.belcantofund.com/actions/16263-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> Belcantofund
+
+18.04.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-19/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 28.03.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-18/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
