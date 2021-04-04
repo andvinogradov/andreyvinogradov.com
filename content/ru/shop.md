@@ -31,3 +31,9 @@ order: 6
 <a href="http://kunaki.com/sales.asp?PID=PX00Z11SQI&pp=1">
   <img class="alignnone" src="http://kunaki.com/ProductImage.ASP?T=I&ST=FO&PID=PX00Z11SQI" alt="" width="383" height="327" />
 </a>
+
+<strong>Кликните по изображению</strong>
+
+<a href="https://kunaki.com/sales.asp?PID=PX002YHX6P&pp=1">
+  <img class="alignnone" src="https://kunaki.com/ProductImage.ASP?T=I&ST=FO&PID=PX002YHX6P" alt="" width="383" height="327" />
+</a>
