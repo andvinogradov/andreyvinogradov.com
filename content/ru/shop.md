@@ -2,6 +2,7 @@
 title: Купить
 order: 6
 ---
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=257645561/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://avinogradov.bandcamp.com/album/breaking-rings">Breaking Rings by Andrey Vinogradov</a></iframe>
 
 <iframe style=" width: 400px; height: 472px; border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=1289875766/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://avinogradov.bandcamp.com/album/distant-calls">Distant Calls by Andrey Vinogradov</a></iframe>
 
