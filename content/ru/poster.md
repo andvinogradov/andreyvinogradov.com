@@ -12,7 +12,7 @@ order: 2
 
 29.08.2021 - сольный концерт в клубе Алексея Козлова (Москва, Россия)
 
-25.07.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-22/">клубе Алексея Козлова (Москва, Россия)
+25.07.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-22/">клубе Алексея Козлова</a> (Москва, Россия)
 
 17.07.2021 — участие в проекте <a href="https://www.belcantofund.com/actions/16914-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>Фонд Бельканто  
   
