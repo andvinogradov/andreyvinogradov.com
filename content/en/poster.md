@@ -10,7 +10,7 @@ order: 4
 
 26.09.2021 - (Moscow, Russia) – solo concert
 
-29.08.2021 - (Moscow, Russia) – solo concert
+29.08.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-23/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 25.07.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-22/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
