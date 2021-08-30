@@ -10,6 +10,8 @@ order: 2
 
 26.09.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-24/">клубе Алексея Козлова</a> (Москва, Россия)
 
+10.09.2021 — участие в <a href="https://exlibriscafe.timepad.ru/event/1749009/"> первом гитарном фестивале Ивана Смирнова</a> (Москва, Россия)
+
 29.08.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-23/">клубе Алексея Козлова</a> (Москва, Россия)
 
 25.07.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-22/">клубе Алексея Козлова</a> (Москва, Россия)
