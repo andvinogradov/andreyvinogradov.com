@@ -10,6 +10,8 @@ order: 4
 
 26.09.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-24/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
+10.09.2021 - <a href="https://exlibriscafe.timepad.ru/event/1749009/">Ivan Smirnov's First Guitar Festival</a> (Moscow, Russia) 
+
 29.08.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-23/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 25.07.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-22/">Kozlov Club</a> (Moscow, Russia) – solo concert
