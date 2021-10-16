@@ -6,6 +6,8 @@ order: 4
 
 28.11.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-26/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
+27.11.2021 - project <a href="https://www.belcantofund.com/actions/17849-sobor/">"Tbiliso. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
+
 24.10.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-25/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 26.09.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-24/">Kozlov Club</a> (Moscow, Russia) – solo concert
