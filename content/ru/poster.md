@@ -6,6 +6,8 @@ order: 2
 
 28.11.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-26/">клубе Алексея Козлова</a> (Москва, Россия)
 
+27.11.2021 - участие в проекте <a href="https://www.belcantofund.com/actions/17849-sobor/">«Тбилисо. Грузинское многоголосие, орган и колёсная лира» </a>(Москва. Лютеранский собор Петра и Павла. Фонд Бельканто)
+
 24.10.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-25/">клубе Алексея Козлова</a> (Москва, Россия)
 
 26.09.2021 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-24/">клубе Алексея Козлова</a> (Москва, Россия)
