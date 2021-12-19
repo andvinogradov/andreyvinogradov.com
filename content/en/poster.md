@@ -2,6 +2,10 @@
 title: Gigs
 order: 4
 ---
+29.01.2022 - project <a href="https://www.belcantofund.com/actions/18285-sobor/">"Tbiliso. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
+
+16.01.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-28/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
 26.12.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-27/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 28.11.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-26/">Kozlov Club</a> (Moscow, Russia) – solo concert
