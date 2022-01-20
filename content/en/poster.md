@@ -4,7 +4,7 @@ order: 4
 ---
 13.02.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-29/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
-05.02.2022 – project <a href="https://www.belcantofund.com/actions/18343-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> Belcantofund
+05.02.2022 – project <a href="https://www.belcantofund.com/actions/18343-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
 
 29.01.2022 - project <a href="https://www.belcantofund.com/actions/18285-sobor/">"Tbiliso. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
 
