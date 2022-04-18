@@ -4,6 +4,8 @@ order: 2
 ---
 29.05.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-32/">клубе Алексея Козлова</a> (Москва, Россия)
 
+21.05.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/19250-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
+
 17.04.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-31/">клубе Алексея Козлова</a> (Москва, Россия)
 
 27.03.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-30/">клубе Алексея Козлова</a> (Москва, Россия)
