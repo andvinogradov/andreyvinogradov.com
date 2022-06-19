@@ -2,6 +2,10 @@
 title: Gigs
 order: 4
 ---
+24.07.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-34/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+19.06.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-33/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
 29.05.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-32/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 21.05.2022 – project <a href="https://www.belcantofund.com/actions/19250-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
