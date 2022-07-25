@@ -2,9 +2,9 @@
 title: Афиша
 order: 2
 ---
-15.08.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/20079-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
-
 21.08.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-35/">клубе Алексея Козлова</a> (Москва, Россия)
+
+15.08.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/20079-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
 
 24.07.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-34/">клубе Алексея Козлова</a> (Москва, Россия)
 
