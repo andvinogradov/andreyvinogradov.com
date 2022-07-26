@@ -6,6 +6,8 @@ order: 4
 
 15.08.2022 – project <a href="https://www.belcantofund.com/actions/20079-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
 
+30.07.22 - 31.07.22 - participation in the festival <a href="https://ethnomir.ru/events-calendar/2022/iyl/prazdnik-etnicheskoy-muzyki-etnoritmy-59612/?fbclid=IwAR252gHkCAEhYXtb_RIKLNJmJmFvc_Hn9SrLoUWTkFBhW6lKO9bkiNq6TWw/"Ethnorhythms</a> in the ethnic complex Etnomir of Kaluga region
+
 24.07.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-34/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 19.06.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-33/">Kozlov Club</a> (Moscow, Russia) – solo concert
