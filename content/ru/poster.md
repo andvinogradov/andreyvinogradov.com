@@ -6,7 +6,7 @@ order: 2
 
 15.08.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/20079-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
 
-30.07.22 - 31.07.22 - участие в фестивале <a href="https://ethnomir.ru/events-calendar/2022/iyl/prazdnik-etnicheskoy-muzyki-etnoritmy-59612/?fbclid=IwAR252gHkCAEhYXtb_RIKLNJmJmFvc_Hn9SrLoUWTkFBhW6lKO9bkiNq6TWw/">Этноритмы в этническом комплексе Этномир Калужской области
+30.07.22 - 31.07.22 - участие в фестивале <a href="https://ethnomir.ru/events-calendar/2022/iyl/prazdnik-etnicheskoy-muzyki-etnoritmy-59612/?fbclid=IwAR252gHkCAEhYXtb_RIKLNJmJmFvc_Hn9SrLoUWTkFBhW6lKO9bkiNq6TWw/">Этноритмы</a> в этническом комплексе Этномир Калужской области
 
 24.07.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-34/">клубе Алексея Козлова</a> (Москва, Россия)
 
