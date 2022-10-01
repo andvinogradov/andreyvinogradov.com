@@ -2,6 +2,8 @@
 title: Афиша
 order: 2
 ---
+23.10.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-37/">клубе Алексея Козлова</a> (Москва, Россия)
+
 18.09.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-36/">клубе Алексея Козлова</a> (Москва, Россия)
 
 21.08.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-35/">клубе Алексея Козлова</a> (Москва, Россия)
