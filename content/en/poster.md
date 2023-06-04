@@ -2,6 +2,8 @@
 title: Gigs
 order: 4
 ---
+25.06.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-45/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
 28.05.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-44/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 30.04.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-43/">Kozlov Club</a> (Moscow, Russia) – solo concert
