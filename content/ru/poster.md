@@ -2,6 +2,8 @@
 title: Афиша
 order: 2
 ---
+27.08.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-47/">клубе Алексея Козлова</a> (Москва, Россия)
+
 30.07.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-46/">клубе Алексея Козлова</a> (Москва, Россия)
 
 25.06.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-45/">клубе Алексея Козлова</a> (Москва, Россия)
