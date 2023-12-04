@@ -5,6 +5,8 @@ order: 4
 
 24.12.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-51/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
+10.12.2023 - <a href="https://ivansmirnov/">Ivan Smirnov club</a> (Moscow, Russia) – solo concert
+
 26.11.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-50/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 29.10.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-49/">Kozlov Club</a> (Moscow, Russia) – solo concert
