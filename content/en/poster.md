@@ -3,6 +3,8 @@ title: Gigs
 order: 4
 ---
 
+16.01.2024 - <a href="https://dom.com.ru/events/5223/">cultural centre Dom</a> (Moscow, Russia) – solo concert
+
 24.12.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-51/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 10.12.2023 - <a href="http://ivansmirnov.com/">Ivan Smirnov club</a> (Moscow, Russia) – solo concert
