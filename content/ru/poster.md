@@ -6,8 +6,6 @@ order: 2
 
 24.12.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-51/">клубе Алексея Козлова</a> (Москва, Россия)
 
-10.12.2023 - сольный концерт в <a href="http://ivansmirnov.com/"> новом клубе Ивана Смирнова</a> (Москва, Россия)
-
 26.11.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-50/">клубе Алексея Козлова</a> (Москва, Россия)
 
 29.10.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-49/">клубе Алексея Козлова</a> (Москва, Россия)
