@@ -5,6 +5,8 @@ order: 4
 
 31.03.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-54/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
+12.03.2024 - <a href="https://dom.com.ru/events/5260/">cultural centre Dom</a> (Moscow, Russia) – solo concert
+
 25.02.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-53/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 28.01.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-52/">Kozlov Club</a> (Moscow, Russia) – solo concert
