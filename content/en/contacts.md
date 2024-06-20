@@ -5,7 +5,7 @@ order: 8
 
 [avinograd2024@gmail.com](mailto:avinograd2024@gmail.com)
 
-Tel. [+79254467695](tel:+77064215073)
+Tel. [+77064215073](tel:+77064215073)
 
 [Youtube](http://www.youtube.com/avinograd)
 
