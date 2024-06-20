@@ -9,8 +9,6 @@ Tel. [+77064215073](tel:+77064215073)
 
 [Youtube](http://www.youtube.com/avinograd)
 
-[Facebook](https://www.facebook.com/avinogradovmusic)
-
 [Bandcamp](https://avinogradov.bandcamp.com/)
 
 [Soundcloud](https://soundcloud.com/andrey-vinogradov-2)
