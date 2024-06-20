@@ -3,9 +3,9 @@ title: Contacts
 order: 8
 ---
 
-[andvinogradov@gmail.com](mailto:andvinogradov@gmail.com)
+[avinograd2024@gmail.com](mailto:avinograd2024@gmail.com)
 
-Tel. [+79254467695](tel:+79254467695)
+Tel. [+79254467695](tel:+77064215073)
 
 [Youtube](http://www.youtube.com/avinograd)
 
