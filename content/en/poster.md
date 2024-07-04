@@ -3,6 +3,121 @@ title: Gigs
 order: 4
 ---
 
+28.07.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-58/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+30.06.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-57/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+26.05.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-56/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+21.04.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-55/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+31.03.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-54/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+12.03.2024 - <a href="https://dom.com.ru/events/5260/">cultural centre Dom</a> (Moscow, Russia) – solo concert
+
+25.02.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-53/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+28.01.2024 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-52/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+16.01.2024 - <a href="https://dom.com.ru/events/5223/">cultural centre Dom</a> (Moscow, Russia) – solo concert
+
+24.12.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-51/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+26.11.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-50/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+29.10.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-49/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+01.10.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-48/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+27.08.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-47/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+30.07.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-46/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+25.06.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-45/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+28.05.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-44/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+30.04.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-43/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+26.03.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-42/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+08.03.2023 - project <a href="https://www.belcantofund.com/actions/22732-sobor/">"Tbiliso. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
+
+19.02.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-41/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+22.01.2023 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-40/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+18.12.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-39/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+20.11.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-38/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+23.10.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-37/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+18.09.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-36/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+21.08.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-35/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+15.08.2022 – project <a href="https://www.belcantofund.com/actions/20079-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
+
+30.07.22 - 31.07.22 - participation in the festival <a href="https://ethnomir.ru/events-calendar/2022/iyl/prazdnik-etnicheskoy-muzyki-etnoritmy-59612/?fbclid=IwAR252gHkCAEhYXtb_RIKLNJmJmFvc_Hn9SrLoUWTkFBhW6lKO9bkiNq6TWw/">Ethnorhythms</a> in the ethnic complex Etnomir of Kaluga region
+
+24.07.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-34/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+19.06.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-33/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+29.05.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-32/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+21.05.2022 – project <a href="https://www.belcantofund.com/actions/19250-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
+
+17.04.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-31/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+27.03.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-30/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+13.02.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-29/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+05.02.2022 – project <a href="https://www.belcantofund.com/actions/18343-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
+
+29.01.2022 - project <a href="https://www.belcantofund.com/actions/18285-sobor/">"Tbiliso. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
+
+16.01.2022 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-28/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+26.12.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-27/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+28.11.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-26/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+27.11.2021 - project <a href="https://www.belcantofund.com/actions/17849-sobor/">"Tbiliso. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
+
+24.10.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-25/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+26.09.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-24/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+10.09.2021 - <a href="https://exlibriscafe.timepad.ru/event/1749009/">Ivan Smirnov's First Guitar Festival</a> (Moscow, Russia) 
+
+29.08.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-23/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+25.07.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-22/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+17.07.2021 – project <a href="https://www.belcantofund.com/actions/16914-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> Belcantofund
+
+27.06.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-21/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+30.05.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-20/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+26.04.2021 – project <a href="https://www.belcantofund.com/actions/16263-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> Belcantofund
+
+18.04.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-19/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+28.03.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-18/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+06.03.2021 – project <a href="https://www.belcantofund.com/actions/15969-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> Belcantofund
+
+28.02.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-17/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+24.01.2021 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-16/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+27.12.2020 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-16/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
+22.11.2010 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-15/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 29.10.2020 - project <a href="https://www.belcantofund.com/actions/14250-sobor/">"Elemental music. Tbiliso mountains. Georgian polyphony, organ and hurdy-gurdy"</a> (Sts. Peter and Paul Cathedral, Moscow, Belcantofund)
 
