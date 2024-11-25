@@ -14,6 +14,8 @@ order: 6
 
 <iframe style=" width: 400px; height: 510px; border: 0;" src="https://bandcamp.com/EmbeddedPlayer/album=2614424396/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://avinogradov.bandcamp.com/album/russian-strolling-beggars-tunes">Russian Strolling Beggars Tunes by Andrey Vinogradov</a></iframe>
 
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3923829250/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://avinogradov.bandcamp.com/album/empty-land">Empty Land by Andrey Vinogradov</a></iframe>
+
 <strong>Кликните по изображению</strong>
 
 <a href="http://Kunaki.com/Sales.asp?PID=PX00ZRRI1W&amp;PP=1">
