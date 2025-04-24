@@ -2,7 +2,99 @@
 title: Афиша
 order: 2
 ---
+29.06.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-69/">клубе Алексея Козлова</a> (Москва, Россия)
 
+25.05.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-68/">клубе Алексея Козлова</a> (Москва, Россия)
+
+27.04.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-67/">клубе Алексея Козлова</a> (Москва, Россия)
+
+30.03.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-66/">клубе Алексея Козлова</a> (Москва, Россия)
+
+23.02.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-65/">клубе Алексея Козлова</a> (Москва, Россия)
+
+26.01.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-64/">клубе Алексея Козлова</a> (Москва, Россия)
+
+29.12.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-63/">клубе Алексея Козлова</a> (Москва, Россия)
+
+24.11.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-62/">клубе Алексея Козлова</a> (Москва, Россия)
+
+27.10.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-61/">клубе Алексея Козлова</a> (Москва, Россия)
+
+29.09.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-60/">клубе Алексея Козлова</a> (Москва, Россия)
+
+25.08.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-59/">клубе Алексея Козлова</a> (Москва, Россия)
+
+28.07.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-58-2/">клубе Алексея Козлова</a> (Москва, Россия)
+
+30.06.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-57/">клубе Алексея Козлова</a> (Москва, Россия)
+
+26.05.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-56/">клубе Алексея Козлова</a> (Москва, Россия)
+
+21.04.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-55/">клубе Алексея Козлова</a> (Москва, Россия)
+
+31.03.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-54/">клубе Алексея Козлова</a> (Москва, Россия)
+
+12.03.2024 - сольный концерт в <a href="https://dom.com.ru/events/5260/">культурном центре ДОМ</a> (Москва, Россия)
+
+25.02.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-53/">клубе Алексея Козлова</a> (Москва, Россия)
+
+28.01.2024 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-52/">клубе Алексея Козлова</a> (Москва, Россия)
+
+16.01.2024 - сольный концерт в <a href="https://dom.com.ru/events/5223//">культурном центре ДОМ</a> (Москва, Россия)
+
+24.12.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-51/">клубе Алексея Козлова</a> (Москва, Россия)
+
+26.11.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-50/">клубе Алексея Козлова</a> (Москва, Россия)
+
+29.10.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-49/">клубе Алексея Козлова</a> (Москва, Россия)
+
+01.10.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-48/">клубе Алексея Козлова</a> (Москва, Россия)
+
+27.08.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-47/">клубе Алексея Козлова</a> (Москва, Россия)
+
+30.07.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-46/">клубе Алексея Козлова</a> (Москва, Россия)
+
+25.06.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-45/">клубе Алексея Козлова</a> (Москва, Россия)
+
+28.05.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-44/">клубе Алексея Козлова</a> (Москва, Россия)
+
+30.04.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-43/">клубе Алексея Козлова</a> (Москва, Россия)
+
+26.03.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-42/">клубе Алексея Козлова</a> (Москва, Россия)
+
+08.03.2023 - участие в проекте <a href="https://www.belcantofund.com/actions/22732-sobor/">«Тбилисо. Грузинское многоголосие, орган и колёсная лира» </a>(Москва. Лютеранский собор Петра и Павла. Фонд Бельканто)
+
+19.02.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-41/">клубе Алексея Козлова</a> (Москва, Россия)
+
+22.01.2023 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-40/">клубе Алексея Козлова</a> (Москва, Россия)
+
+18.12.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-39/">клубе Алексея Козлова</a> (Москва, Россия)
+
+20.11.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-38/">клубе Алексея Козлова</a> (Москва, Россия)
+
+23.10.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-37/">клубе Алексея Козлова</a> (Москва, Россия)
+
+18.09.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-36/">клубе Алексея Козлова</a> (Москва, Россия)
+
+21.08.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-35/">клубе Алексея Козлова</a> (Москва, Россия)
+
+15.08.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/20079-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
+
+30.07.22 - 31.07.22 - участие в фестивале <a href="https://ethnomir.ru/events-calendar/2022/iyl/prazdnik-etnicheskoy-muzyki-etnoritmy-59612/?fbclid=IwAR252gHkCAEhYXtb_RIKLNJmJmFvc_Hn9SrLoUWTkFBhW6lKO9bkiNq6TWw/">Этноритмы</a> в этническом комплексе Этномир Калужской области
+
+24.07.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-34/">клубе Алексея Козлова</a> (Москва, Россия)
+
+19.06.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-33/">клубе Алексея Козлова</a> (Москва, Россия)
+
+29.05.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-32/">клубе Алексея Козлова</a> (Москва, Россия)
+
+21.05.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/19250-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
+
+17.04.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-31/">клубе Алексея Козлова</a> (Москва, Россия)
+
+27.03.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-30/">клубе Алексея Козлова</a> (Москва, Россия)
+
+13.02.2022 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-29/">клубе Алексея Козлова</a> (Москва, Россия)
 
 05.02.2022 — участие в проекте <a href="https://www.belcantofund.com/actions/18343-sobor-svyatogo-andreya/">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
 
