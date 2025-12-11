@@ -3,6 +3,8 @@ title: Афиша
 order: 2
 ---
 
+25.01.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-75/">клубе Алексея Козлова</a> (Москва, Россия)
+
 28.12.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-74/">клубе Алексея Козлова</a> (Москва, Россия)
 
 30.11.2025 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-73/">клубе Алексея Козлова</a> (Москва, Россия)
