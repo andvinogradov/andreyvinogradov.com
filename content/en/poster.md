@@ -3,6 +3,8 @@ title: Gigs
 order: 4
 ---
 
+25.07.2026 - <a href="https://vk.com/novgorodkremlin_jazz/">‘Jazz in the Novgorod Kremlin’ Jazz Festival</a> (Veliky Novgorod, Russia) 
+
 19.07.2026 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-81/">Kozlov Club</a> (Moscow, Russia) – solo concert
 
 28.06.2026 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-80/">Kozlov Club</a> (Moscow, Russia) – solo concert
