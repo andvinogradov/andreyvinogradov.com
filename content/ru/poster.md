@@ -2,6 +2,8 @@
 title: Афиша
 order: 2
 ---
+30.08.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-82/">клубе Алексея Козлова</a> (Москва, Россия)
+
 25.07.2026 - участие в <a href="https://vk.com/novgorodkremlin_jazz/">джазовом фестивале "Джаз в Новгородском кремле"</a> (Великий Новгород, Россия)
 
 19.07.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-81/">клубе Алексея Козлова</a> (Москва, Россия)
