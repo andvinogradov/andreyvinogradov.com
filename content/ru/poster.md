@@ -5,6 +5,8 @@ order: 2
 
 21.11.2026 — участие в проекте <a href="https://www.belcantofund.com/actions/41461-sobor-svyatogo-andreya//">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
 
+25.10.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-84/">клубе Алексея Козлова</a> (Москва, Россия)
+
 27.09.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-83/">клубе Алексея Козлова</a> (Москва, Россия)
 
 30.08.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-82/">клубе Алексея Козлова</a> (Москва, Россия)
