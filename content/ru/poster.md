@@ -3,9 +3,9 @@ title: Афиша
 order: 2
 ---
 
-29.11.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-85/">клубе Алексея Козлова</a> (Москва, Россия)
+16.01.2027 — участие в проекте <a href="https://www.belcantofund.com/actions/41461-sobor-svyatogo-andreya//">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
 
-21.11.2026 — участие в проекте <a href="https://www.belcantofund.com/actions/41461-sobor-svyatogo-andreya//">«Дудук и колёсная лира» </a>(Москва. Англиканский собор Святого Андрея. Фонд Бельканто)
+29.11.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-85/">клубе Алексея Козлова</a> (Москва, Россия)
 
 25.10.2026 - сольный концерт в <a href="https://kozlovclub.ru/event/andrej-vinogradov-84/">клубе Алексея Козлова</a> (Москва, Россия)
 
