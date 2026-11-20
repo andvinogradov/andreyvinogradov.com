@@ -3,6 +3,8 @@ title: Gigs
 order: 4
 ---
 
+24.01.2027 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-85-2/">Kozlov Club</a> (Moscow, Russia) – solo concert
+
 16.01.2027 – project <a href="https://www.belcantofund.com/actions/41461-sobor-svyatogo-andreya/">“Duduk &amp; Hurdy-Gurdy”</a> (St Andrew's Anglican Cathedral. Moscow. Belcantofund)
 
 27.12.2026 - <a href="https://kozlovclub.ru/event/andrej-vinogradov-86/">Kozlov Club</a> (Moscow, Russia) – solo concert
